@@ -20,11 +20,6 @@
 - 📊 Calculus : Advanced, statistics. 
 - ⚛️ Physique : Mechanics, Thermodynamics, Electromagnetism and Quantum.
 
-## Repositories
-
-- [Repo1](https://github.com/Johanncc01/bees): A brief description of Repo1
-- [Repo2](https://github.com/Johanncc01/seam): A brief description of Repo2
-
 ## Reach out
 
 📫 Reach me at: 
