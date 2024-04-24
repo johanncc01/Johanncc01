@@ -4,7 +4,9 @@
 
 >🧬 My interests include biology, programming, and mathematics.
 
->🏂 I also love skiing and snowboarding! 
+>🏂 I also love skiing and snowboarding!
+
+>☕️ Buy me a [coffee](paypal.me/johannc01)
 
 ## Profile Overview
 
@@ -15,10 +17,10 @@
 ## Skills
 
 - 🌟 Programming languages: C++, Python, Julia
-- 💻 LaTeX
+- 💻 LaTeX, Git, GitHub
 - 🧬 Biology : Molecular, cellular, ...
 - 📊 Calculus : Advanced, statistics. 
-- ⚛️ Physique : Mechanics, Thermodynamics, Electromagnetism and Quantum.
+- ⚛️ Physics : Mechanics, Thermodynamics, Electromagnetism and Quantum.
 
 ## Reach out
 
