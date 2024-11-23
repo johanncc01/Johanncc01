@@ -6,7 +6,7 @@
 
 >🏂 I also love skiing and snowboarding!
 
->☕️ Buy me a [coffee](paypal.me/johannc01)
+>☕️ Buy me a [coffee](https://paypal.me/johannc01)
 
 ## Profile Overview
 
